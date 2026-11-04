@@ -1,0 +1,8 @@
+{
+  "selected_hidden_states": 2,
+  "bic": 14970.687891169988,
+  "window_size": 50,
+  "threshold_percentile": 1,
+  "anomaly_threshold": -3.690542982154054,
+  "training_window_count": 60
+}
