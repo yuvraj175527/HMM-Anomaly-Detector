@@ -91,4 +91,4 @@ Open the local URL printed by Streamlit.
 - A Gaussian HMM assumes observations are generated from a mixture of state-dependent Gaussian distributions and that hidden-state transitions follow a Markov process.
 
 ## Author
-Add your name and course details here.
+Yuvraj TYCS
